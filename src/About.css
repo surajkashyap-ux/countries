@@ -1,0 +1,53 @@
+button {
+  padding: 0.2rem 2rem;
+  border: none;
+  margin: 2.5rem;
+  border-radius: 5px;
+  background-color: hsl(209, 23%, 22%);
+  color: white;
+  font-size: 0.8rem;
+}
+
+.country-card {
+  background-color: hsl(209, 23%, 22%);
+  margin: 0 2.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+  width: 700px;
+  height: 300px;
+}
+
+.image{
+  align-self: flex-start;
+}
+
+.content > p{
+  margin-bottom: 0.5rem;
+  font-size: 0.6rem;
+}
+
+.container{
+  display: flex;
+}
+
+.image > img{
+  width: 30rem;
+  margin-right: 3rem;
+}
+
+.top-text {
+  margin-top: 5.7rem;
+}
+
+h5{
+  margin: 2rem 0;
+}
+
+.third-container {
+  margin-left: 3rem;
+}
+
+.loading {
+  text-align: center;
+  font-size: 5rem;
+}

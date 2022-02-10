@@ -1,0 +1,36 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: hsl(209, 23%, 22%);
+}
+
+.text-left {
+  align-self: center;
+  padding: 1.2rem;
+  padding-left: 3rem;
+}
+
+.text-right {
+  align-self: center;
+  padding: 1.2rem;
+  padding-right: 3rem;
+}
+
+
+.light-mode {
+  background-color: rgb(241, 240, 240);
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+h6{
+  font-size: 0.8rem;
+}
+
+.white {
+  color: black;
+  background-color: white;
+}
